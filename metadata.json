@@ -1,0 +1,6 @@
+{
+  "name": "GymHippie Holistic Personal Training",
+  "description": "A single-page marketing website for GymHippie Holistic Personal Training Reading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
